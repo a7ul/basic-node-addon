@@ -4,6 +4,8 @@ This example is to help explain debugging in VSCode for C++ based NodeJS addons.
 
 The actual blog post is at: 
 
+https://medium.com/@atulanand94/debugging-nodejs-c-addons-using-vs-code-27e9940fc3ad
+
 **Requriements:**
 
 - Node v10
