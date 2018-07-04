@@ -2,7 +2,7 @@
 
 std::string test::hello()
 {
-    return "Hello World";
+    return "Hello World123";
 }
 
 Napi::String test::HelloWrapped(const Napi::CallbackInfo &info)
